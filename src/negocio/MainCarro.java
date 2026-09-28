@@ -10,7 +10,7 @@ public class MainCarro {
         c1.velocidad = 80;
 
         c2.potencia = 3;
-        c2.velocidad = 60;
+        c2.velocidad = 65;
 
         c3.potencia = 2;
         c3.velocidad = 80;
